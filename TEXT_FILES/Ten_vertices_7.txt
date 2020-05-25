@@ -1,0 +1,13 @@
+S W 100
+W O 50
+W R 70
+R Z 40
+R D 50
+W Z 30
+D N 40
+Z T 35
+N T 45
+O P 23
+P Q 27
+P Z 25
+Q T 20
